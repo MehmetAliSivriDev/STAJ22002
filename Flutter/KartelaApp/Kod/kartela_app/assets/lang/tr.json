@@ -1,0 +1,111 @@
+{
+    "_kartelaappwordsTR" : "_kartelaappwordsTR", 
+    "_messages" : "messages",
+    "errorOccured" : "Bir Hata Meydana Geldi",
+    "synchronizeDataSucess" : "Veriler Başarıyla Senkronize Edildi",
+    
+    "_languages" : "languages",
+    "turkish" : "Türkçe",
+    "english" : "İngilizce",
+    
+    "_drawerWords" : "_drawerWords",
+    "dataAddTitle" : "Veri Ekleme",
+    "dataAddSubtitle" : "Varyant-Desen-vb. Verileri Ekleme",
+    "viewDataTitle" : "Veri Görüntüleme",
+    "viewDataSubtitle" : "Kartela Verilerini Görüntüleme",
+    "systemSettings" : "Sistem Ayarları",
+    "orderCart" : "Sipariş Sepeti",
+    
+    "_systemSettingsWords" : "_systemSettingsWords",
+    "settings" : "Ayarlar",
+    "changeLanguageSettingTitle" : "Dil Değiştir",
+    "changeLanguageSettingSubtitle" : "Uygulamanın Dilini Değiştir",
+    "synchronizeDataSettingTitle" : "Verileri Senkronize Et",
+    "synchronizeDataSettingSubtitle" : "Serverdaki verilerle localdeki verileri senkronize et",
+    "transferDataTitle" : "Verileri Aktar",
+    "transferDataSubtitle" : "Localdeki siparişleri servera aktar",
+    "getOrdersFromServerTitle" : "Sipariş Verileni Çek",
+    "getOrdersFromServerSubtitle" : "Serverda yer alan sipariş verilerini locale aktar",
+   
+    "_dataDisplayWords" : "_dataDisplayWords",
+    "numberofDataDisplayed" : "Görüntülenen Veri Sayısı",
+    "variant" : "Varyant",
+    "pattern" : "Desen",
+    "patternCode" : "Desen Kod", 
+    "com" : "Com",
+    "color" : "Renk",
+    "type" : "Tip",
+    "kg" : "KG",
+    "width" : "En",
+    "kWidth" : "kEn",
+    "search" : "Ara",
+    "refresh" : "Yenile",
+    "barcode" : "Barkod",
+    "filter" : "Filtreleme",
+    "filterType" : "Tipine Göre",
+    "filterColor" : "Rengine Göre",
+   
+    "_homeWords" : "_homeWords",
+    "homeTitle" : "Anasayfa",
+    "plsScanKartela" : "Lütfen Kartela Taratınız",
+    "kartelaApp" : "Kartela Uygulaması",
+    "userScanTip" : "Barkod veya QR Kod taratmak için yandaki butonu kullanınız",
+
+    "_loginWords" : "_loginWords",
+    "companyInfo" : "Firma Bilgisi",
+    "scontinue" : "Devam Et",
+    "login" :  "Giriş Yap",
+    "mail" : "Email",
+    "companyName" : "Firma Adı",
+
+    "_orderWords" : "_orderWords",
+    "addToCart" : "Sepete Ekle",
+    "order" : "Sipariş",
+
+    "_orderCartWords" : "_orderCartWords",
+    "givenOrders" : "Verilen Siparişler",
+    "oCartInfo1" : "Sepetinizde", 
+    "oCartInfo2" : "Tane Ürün Bulunmaktadır",
+    "completeOrder" : "Siparişi Tamamla",
+    "productDetailTitle" : "Ürün Ayrıntılı Bilgi",
+    "update" : "Güncelle",
+
+    "_orderPastWords" : "_orderPastWords",
+    "orderPastTitle" : "Geçmiş Siparişler",
+    "orderNumber" : "Sipariş Numarası",
+    "countOrderNumber" : "Adet Sayısı",
+
+
+    "_snackbarContentWords" : "_snackbarContentWords",
+    "kartelaNotFound" : "Aradığınız Kartela Bulunamadı",
+    "successAddPToCart" : "Ürün Sepete Eklendi",
+    "removedPFOrderCart" : "Ürün sepetten kaldırıldı",
+    "sucessOrder" : "Sipariş Başarıyla Verildi",
+    "successDeleteAllFCart" : "Sepetteki tüm ürünler silindi",
+    "dataTransferSuccess" : "Veriler Başarıyla Servera Aktarıldı",
+    "dataTransferAlreadyUpdated" : "Veriler Zaten Güncel",
+    "successOrderFromServer" :  "Siparişler başarıyla locale aktarıldı",
+    "nGetLastOrderNumber" :  "Son sipariş numarası alınamadı",
+
+    "_validatorWords" : "_validatorWords",
+    "companyNameValidator" : "Lütfen Geçerli Bir Ad Giriniz",
+    "companyMailValidator" : "Lütfen Geçerli Bir Mail Giriniz",
+
+    "_dialogWords" : "_dialogWords",
+    "deleteTitle" : "Silme",
+    "deleteContent" : "Barkod nolu ürünü sepetinizden çıkartmak istediğinize emin misiniz?",
+    "yes" : "Evet",
+    "no" : "Hayır",
+    "deleteAllFCart" : "Sepetteki tüm ürünleri silmek istediğinize emin misiniz?",
+    "pass" : "Şifre",
+    "passError" : "Hatalı Şifre",
+    "warning" : "Uyarı",
+    "getOrdersFromServerDialog1" : "Localde veri kaybı yaşanabilir emin misiniz ?",
+    "getOrdersFromServerDialog2" : "Sipariş verisi kaybı yaşamamak için önce sipariş verilerinizi servera aktarmanız tavsiye edilir."
+
+    
+
+
+
+
+}
